@@ -1,4 +1,4 @@
-## Reduce AWS EC2 Development Instances Cost by 60%
+## How to Reduce AWS EC2 Development Instances Cost by 60%
 
 We are all aware that Amazon Web Services is one of the most popular and used Cloud platforms. Most of us use AWS for hosting. When building apps, we might have different environments for development, staging, UAT, and production.
 
