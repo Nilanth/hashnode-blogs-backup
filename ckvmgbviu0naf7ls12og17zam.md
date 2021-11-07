@@ -15,6 +15,6 @@ This also has a number of React development resources for
 
 Grab your Copy now on **[Gumroad](https://nilanth.gumroad.com/l/NYkdN)**.
 
-**Download the Ebook for free**
+**First 50 copies are free**
 
 Get more updates on [Twitter](https://twitter.com/Nilanth).
