@@ -14,7 +14,7 @@ As we all know, the [Laravel](https://laravel.com/) community is growing rapidly
 ### Highlights
 
 1. Adds static typing to Laravel to improve developer 
-2. productivity and code quality.
+2. Productivity and code quality.
 3. Supports most of Laravel's magic methods.
 4. Discovers bugs in your code.
 
