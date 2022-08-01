@@ -124,6 +124,6 @@ By default, Pint does not require any configuration and will fix code style issu
 
 ## Conclusion
 
-There are multiple open source tools to maintain coding standards and reduce bugs in Laravel. Choose a tool from above that best fits your project and environment. This will drastically decrease the developer's time spent on finding issues.
+There are multiple open source tools to maintain coding standards and reduce bugs in Laravel. Choose a tool from above that best fits your project and environment. 
 
 Thank you for reading.
