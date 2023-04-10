@@ -2,7 +2,7 @@
 title: "Why You Should Use a React Framework for Your Next Project"
 seoTitle: "Why You Should Use a React Framework for Your Next Project | By Nilant"
 seoDescription: "Learn about the advantages and benefits of using frameworks like Next.js and Gatsby for server-side rendering, structure, and organization, community."
-datePublished: Wed Mar 29 2023 17:17:08 GMT+0000 (Coordinated Universal Time)
+datePublished: Mon Apr 10 2023 02:23:59 GMT+0000 (Coordinated Universal Time)
 cuid: clfty915t000509mnca8y5loo
 slug: why-you-should-use-a-react-framework-for-your-next-project
 canonical: https://medium.com/javascript-in-plain-english/why-you-should-use-a-react-framework-for-your-next-project-954cfa4431f4
