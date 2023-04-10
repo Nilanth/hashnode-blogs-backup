@@ -1,4 +1,16 @@
-# Multi-threaded React App using useWorker
+---
+title: "Multi-threaded React App using useWorker"
+seoTitle: "React App with useWorker for multi-threading"
+seoDescription: "UseWorker simplifies web worker setup for CPU-intensive tasks in React, allowing multi-threading without blocking the UI"
+datePublished: Mon Apr 10 2023 02:24:50 GMT+0000 (Coordinated Universal Time)
+cuid: cldoqcp96000109l4gqdv1w6y
+slug: multi-threaded-react-app-using-useworker
+canonical: https://javascript.plainenglish.io/multi-threaded-react-app-using-useworker-e67a593c9b51
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675440759436/482eab54-bea8-498e-aff6-2132a3660830.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1675441036786/22db5422-ad39-41f1-a9ce-f784fad9e8c3.jpeg
+tags: javascript, web-development, reactjs, nextjs
+
+---
 
 As we all know, Javascript is a single-threaded language. So, if we do any expensive task, It will block UI interaction. And the user needs to wait till it completes to perform any other action, which gives a bad UX experience.
 
