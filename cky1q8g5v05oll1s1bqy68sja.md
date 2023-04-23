@@ -8,7 +8,7 @@ slug: twitter-followers-tracker-using-nextjs-nextauth-and-tailwindcss
 canonical: https://javascript.plainenglish.io/build-a-twitter-followers-counter-using-next-js-nextauth-and-tailwind-dc8a99152af5
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1641398099417/92iCgr_ha.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1641398154880/qPgXrSYKe.png
-tags: javascript, web-development, webdev, reactjs, nextjs
+tags: programming-blogs, javascript, web-development, reactjs, nextjs
 
 ---
 
