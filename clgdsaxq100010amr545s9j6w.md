@@ -7,7 +7,7 @@ cuid: clgdsaxq100010amr545s9j6w
 slug: postgresql-performance-tuning-a-guide-to-vacuum-analyze-and-reindex
 canonical: https://medium.com/@nilanth/postgresql-performance-tuning-a-guide-to-vacuum-analyze-and-reindex-fd47d5b7d7f
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681143324628/570e915d-a6ca-4f12-b691-38b1dc3526b4.jpeg
-tags: postgresql, laravel, python, rails, beginners
+tags: postgresql, laravel, python, rails, web-development
 
 ---
 
