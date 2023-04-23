@@ -6,7 +6,7 @@ datePublished: Sat Apr 22 2023 11:57:05 GMT+0000 (Coordinated Universal Time)
 cuid: clgrxdvo7000209m866ef0tqm
 slug: 5-tips-for-optimizing-reactjs-performance-and-building-lightning-fast-applications
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682164312432/ea4adec6-5904-4312-bd81-b42c56dbdd64.jpeg
-tags: javascript, web-development, reactjs, beginners, nextjs
+tags: javascript, web-development, reactjs, devops, nextjs
 
 ---
 
