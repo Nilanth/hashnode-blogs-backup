@@ -8,7 +8,7 @@ slug: multi-threaded-react-app-using-useworker
 canonical: https://javascript.plainenglish.io/multi-threaded-react-app-using-useworker-e67a593c9b51
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1675440759436/482eab54-bea8-498e-aff6-2132a3660830.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1675441036786/22db5422-ad39-41f1-a9ce-f784fad9e8c3.jpeg
-tags: javascript, web-development, reactjs, nextjs
+tags: programming-blogs, javascript, web-development, reactjs, nextjs
 
 ---
 
