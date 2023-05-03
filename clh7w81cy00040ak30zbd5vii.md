@@ -1,8 +1,8 @@
 ---
-title: "What Makes Some Software Engineers More Effective Than Others? Here’s How They Do It"
-datePublished: Wed May 03 2023 16:08:51 GMT+0000 (Coordinated Universal Time)
+title: "How Some Software Engineers More Effective Than Others?"
+datePublished: Wed May 03 2023 16:26:46 GMT+0000 (Coordinated Universal Time)
 cuid: clh7w81cy00040ak30zbd5vii
-slug: what-makes-some-software-engineers-more-effective-than-others-heres-how-they-do-it
+slug: how-some-software-engineers-more-effective-than-others
 canonical: https://javascript.plainenglish.io/what-makes-some-software-engineers-more-effective-than-others-heres-how-they-do-it-70777da2f07
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1683130009808/41b9dfe3-99c2-4edb-b57e-426c31e21ccb.jpeg
 tags: software-development, programming-blogs, javascript, web-development
