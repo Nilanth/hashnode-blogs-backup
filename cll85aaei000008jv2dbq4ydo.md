@@ -47,7 +47,9 @@ PostgreSQL offers two types of reindexing methods: offline and online.
 
 Offline reindexing locks the table, preventing any data modifications during the process. It is suitable for smaller tables or during maintenance windows with lower database activity.
 
-`-- Perform the reindexing REINDEX INDEX index_name;`
+`-- Perform the reindexing`
+
+`REINDEX INDEX index_name;`
 
 ## b. Online Reindexing
 
@@ -55,7 +57,9 @@ Online reindexing allows concurrent read and write operations on the table while
 
 For example, you can use the CONCURRENTLY option for online reindexing
 
-`-- Reindex the index concurrently REINDEX INDEX CONCURRENTLY index_name;`
+`-- Reindex the index concurrently`
+
+`REINDEX INDEX CONCURRENTLY index_name;`
 
 ## 5\. Harnessing the Power of Covering Indexes
 
