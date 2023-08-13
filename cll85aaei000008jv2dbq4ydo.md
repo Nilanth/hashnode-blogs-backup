@@ -4,7 +4,7 @@ datePublished: Sat Aug 12 2023 15:01:22 GMT+0000 (Coordinated Universal Time)
 cuid: cll85aaei000008jv2dbq4ydo
 slug: unleashing-the-full-power-of-postgresql-a-definitive-guide-to-supercharge-performance
 canonical: https://nilanth.medium.com/unleashing-the-full-power-of-postgresql-a-definitive-guide-to-supercharge-performance-a8ce725725ac
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691852383809/bf835556-002b-4026-89e4-cbe54d781ad7.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1691934574093/7f4bba1c-9f53-4d80-bdfc-a764caa9b4de.jpeg
 tags: postgresql, data-science, web-development, databases
 
 ---
