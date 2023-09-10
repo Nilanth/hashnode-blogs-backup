@@ -3,6 +3,7 @@ title: "Bun 1.0: Your All-in-One Toolkit for Turbocharging JavaScript and TypeSc
 datePublished: Sun Sep 10 2023 15:09:03 GMT+0000 (Coordinated Universal Time)
 cuid: clmdlbvie000408k086cr5rt2
 slug: bun-10-your-all-in-one-toolkit-for-turbocharging-javascript-and-typescript-development
+canonical: https://javascript.plainenglish.io/bun-1-0-your-all-in-one-toolkit-for-turbocharging-javascript-and-typescript-development-8546cf7124eb
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1694358468837/4bfa4c57-fdf2-4c1e-8752-1428783e1187.png
 tags: javascript, web-development, reactjs, typescript
 
